@@ -142,5 +142,22 @@ int main() {
 
 
 ### 👁️ Візуалізація пам'яті:
+<img width="820" height="398" alt="image" src="https://github.com/user-attachments/assets/fd8ea09a-13e9-4a15-ab5a-22b803942fd9" />
+<img width="1437" height="797" alt="image" src="https://github.com/user-attachments/assets/ec8c616a-162f-4b86-9bcb-bc9736f5764a" />
+<img width="723" height="310" alt="image" src="https://github.com/user-attachments/assets/09507294-aacc-4abe-966e-48f34a16b636" />
+<img width="1455" height="833" alt="image" src="https://github.com/user-attachments/assets/dfb451c4-39c5-414d-9b7e-b87efb3132c5" />
+<img width="1469" height="787" alt="image" src="https://github.com/user-attachments/assets/3c535ece-5c1b-4b27-a9d5-cb8d4043d42d" />
+<img width="1450" height="788" alt="image" src="https://github.com/user-attachments/assets/3aa03f68-83e2-422b-906a-7ad2d67d1b2f" />
+<img width="724" height="349" alt="image" src="https://github.com/user-attachments/assets/e56dca15-d316-4c92-a470-5066bb5a6abb" />
+<img width="1455" height="814" alt="image" src="https://github.com/user-attachments/assets/5c5908bf-fc5f-4d87-bba2-9a129db9b44b" />
+<img width="1461" height="780" alt="image" src="https://github.com/user-attachments/assets/f1d82400-43c2-435c-85b3-caa80066bd85" />
+<img width="1470" height="806" alt="image" src="https://github.com/user-attachments/assets/10360656-72f9-4880-bb11-8ec48dd8b288" />
+<img width="1497" height="753" alt="image" src="https://github.com/user-attachments/assets/a6770417-c5e0-4f54-8102-754dde4c7b5d" />
+<img width="1415" height="809" alt="image" src="https://github.com/user-attachments/assets/ff6f3d00-b89a-4cec-8aba-a109f4011ec5" />
+<img width="1495" height="808" alt="image" src="https://github.com/user-attachments/assets/2e323496-6702-420c-9ebd-f2b2005c6ce2" />
+<img width="1492" height="857" alt="image" src="https://github.com/user-attachments/assets/fad812fe-bbf9-487c-b34b-e4857f25397a" />
+<img width="1472" height="824" alt="image" src="https://github.com/user-attachments/assets/d3bd8a71-19b5-4245-8164-e0688de0599d" />
+
 
 ### Висновок.
+Під час виконання практичної роботи я успішно реалізувала усі поставлені завдання, увесь написаний код працює коректно. Робота з двозв'язним списком дала змогу краще зрозуміти принципи його побудови та ефективного маніпулювання даними в обидва боки. Візуалізувати памʼять повністю вдалося, скріншоти прикріплені.
